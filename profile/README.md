@@ -2,6 +2,11 @@
 
 Welcome to the IEEE: Computer Society Club at Eastern Washington University! We are a student chapter of the [Institute of Electrical and Electronics Engineers (IEEE) Computer Society], the world's leading organization of computing professionals. Our mission is to empower and equip students with the knowledge, skills, and resources necessary to become proficient developers and excel in their pursuit of MANG (Microsoft, Amazon, Netflix, Google) and other top-tier technology industry jobs. We strive to create a dynamic and inclusive community where students can network, learn from each other, and gain exposure to cutting-edge technologies and industry best practices.
 
+#Current Leadership
+
+President: [Isaias Hernandez](https://github.com/Cool-Coder174)
+Vice-President: [Chander Luderman](https://github.com/chanderlud)
+
 ## What we do
 
 We organize various events and activities throughout the year, such as:
