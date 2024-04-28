@@ -4,8 +4,8 @@ Welcome to the IEEE: Computer Society Club at Eastern Washington University! We 
 
 #Current Leadership
 
-President: [Isaias Hernandez](https://github.com/Cool-Coder174)
-Vice-President: [Chander Luderman](https://github.com/chanderlud)
+-President: [Isaias Hernandez](https://github.com/Cool-Coder174)
+-Vice-President: [Chander Luderman](https://github.com/chanderlud)
 
 ## What we do
 
